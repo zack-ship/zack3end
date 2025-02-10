@@ -16,10 +16,9 @@ body{background-image: url(io21.jpg);
 .inicio{color: violet;
     position: relative;
     font-family: fantasy;
-    color: rgb(255, 255, 255);
     position: relative;
     text-align:center ;
-      font-size: 15px; 
+      font-size: 11px; 
       left:125px;
     
  
@@ -40,9 +39,9 @@ body{background-image: url(io21.jpg);
      font-size: 4px; 
     position: relative;
     left: 50px;
-    top:160px;
+    top:130px;
     font-family: fantasy;
-    color: rgbrgb(121, 4, 117);
+    color: rgbrgb(255, 255, 255);
     text-align:center;
      align-items: center;
       justify-content: center;
