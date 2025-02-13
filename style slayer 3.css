@@ -254,6 +254,27 @@ font-size: 15px;
     color: rgb(255, 255, 255);
      left: 50px;
      font-size: 7px; 
+/* Media Queries para tamaños de pantalla diferentes */
+@media screen and (max-width: 600px) {
+  /* Estilos para pantallas pequeñas */
+  h1 {
+      font-size: 1.5em;
+  }
+}
+
+@media screen and (min-width: 601px) and (max-width: 1024px) {
+  /* Estilos para pantallas medianas */
+  h1 {
+      font-size: 1.8em;
+  }
+}
+
+@media screen and (min-width: 1025px) {
+  /* Estilos para pantallas grandes */
+  h1 {
+      font-size: 2em;
+  }
+}
     
 
 
